@@ -8,7 +8,7 @@ Packages:
 4. Text Marker (https://github.com/Kronuz/TextMarker)
 
 ## Video & Images
-1. ScreenToGif (https://www.screentogif.com/)
+1. ShareX (https://getsharex.com/)
 2. Snipaste (https://www.snipaste.com/)
 3. A Ruler For Windows (https://www.arulerforwindows.com/)
 4. Screen Recorder (https://icecreamapps.com/Screen-Recorder/)
