@@ -17,3 +17,4 @@ Packages:
 ## Security
 1. VeraCrypt
 2. Kleopatra
+3. Bitwarden (https://bitwarden.com/) : password manager
