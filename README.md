@@ -12,8 +12,7 @@ Packages:
 2. ScreenToGif (https://www.screentogif.com/)
 3. Snipaste (https://www.snipaste.com/)
 4. A Ruler For Windows (https://www.arulerforwindows.com/)
-5. Screen Recorder (https://icecreamapps.com/Screen-Recorder/)
-6. Krita, Gimp, Inkscape, Kdenlive
+5. Krita, Gimp, Inkscape, Kdenlive
 
 ## Security
 1. VeraCrypt
