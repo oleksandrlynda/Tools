@@ -9,10 +9,11 @@ Packages:
 
 ## Video & Images
 1. ShareX (https://getsharex.com/)
-2. Snipaste (https://www.snipaste.com/)
-3. A Ruler For Windows (https://www.arulerforwindows.com/)
-4. Screen Recorder (https://icecreamapps.com/Screen-Recorder/)
-5. Krita, Gimp, Inkscape, Kdenlive
+2. ScreenToGif (https://www.screentogif.com/)
+3. Snipaste (https://www.snipaste.com/)
+4. A Ruler For Windows (https://www.arulerforwindows.com/)
+5. Screen Recorder (https://icecreamapps.com/Screen-Recorder/)
+6. Krita, Gimp, Inkscape, Kdenlive
 
 ## Security
 1. VeraCrypt
